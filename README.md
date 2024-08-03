@@ -2,7 +2,8 @@
 
 -Estou estudando na [Alura](https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos [Alura](https://www.alura.com.br)
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos e cresendo na vida 
+
 
 
 *** Como entra em contato Comigo 
