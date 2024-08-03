@@ -1,9 +1,9 @@
-***  Bem vindo ao meu Perfil 
+***  Bem vindo ao meu Perfil 💙💙
 
- olá Meu Nome e bocade09
--Eu sou Estudande do [Alura](https://www.alura.com.br)
--Estou me desenvolvendo na linguagem de JavaScrit
--utilizo essa espaço para compartilhar meus projetos e conquista e vamo crecer 
+-Estou estudando na [Alura](https://www.alura.com.br)
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos [Alura](https://www.alura.com.br)
+
 
 *** Como entra em contato Comigo 
 
